@@ -22,14 +22,17 @@
     transition: .2s linear;
 }
 
+.navbar{
+justify-content: space-around;
 
+}
 
 .header{
 
 display: flex;
 color: #007bff;
 
-
+justify-content: space-between;
 
 }
 
